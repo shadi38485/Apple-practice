@@ -1,0 +1,26 @@
+.nav-link
+body{
+    margin: 0
+    ;
+}
+header {
+    background-color: black
+    ; height: 44px;
+    color: beige;
+
+
+}
+.nav-link {
+    color: aqua;
+    text-decoration: none;
+
+}
+main {
+    background-color: blueviolet;
+    height: 500px;
+
+}
+footer {
+    background-color: brown;
+    height: 300px;
+}
