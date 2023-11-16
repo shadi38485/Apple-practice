@@ -4,14 +4,14 @@ body{
     ;
 }
 header {
-    background-color: black
+    background-color: rgb(89, 85, 85)
     ; height: 44px;
     color: beige;
 
 
 }
 .nav-link {
-    color: aqua;
+    color: rgb(19, 22, 22);
     text-decoration: none;
 
 }
