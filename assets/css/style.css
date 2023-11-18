@@ -1,7 +1,5 @@
-.nav-link
 body{
-    margin: 0
-    ;
+    margin: 0;
 }
 header {
     background-color: rgb(27, 26, 26)
@@ -14,6 +12,10 @@ header {
     color: rgb(19, 22, 22);
     text-decoration: none;
 
+}
+.section-image{
+    color: #312472;
+     width: 100%;
 }
 main {
     background-color: blueviolet;
