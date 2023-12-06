@@ -68,7 +68,7 @@ header .icons {
   width: 100%;
 }
 main {
-  background-color:white;
+  background-color: white;
 }
 
 .title-section {
@@ -99,14 +99,15 @@ main {
 }
 
 /* ######### row-3 ############ */
-.row-3, .row-4 {
+.row-3,
+.row-4 {
   display: flex;
   justify-content: space-evenly;
   height: 580px;
   margin-bottom: 10px;
 }
-.col{
-  background:  no-repeat center;
+.col {
+  background: no-repeat center;
   background-size: cover;
   width: 49%;
 }
@@ -119,12 +120,12 @@ main {
   background-image: url("../images/background/watch-ultra-2.jpg");
 }
 
-.apple-card{
-    background-image: url("../images/background/apple-card_large.jpg") ;
+.apple-card {
+  background-image: url("../images/background/apple-card_large.jpg");
 }
 
-.promo_iphone_tradein{
- background-image: url("../images/background/promo_iphone_tradein_large.jpg") ;
+.promo_iphone_tradein {
+  background-image: url("../images/background/promo_iphone_tradein_large.jpg");
 }
 
 .shadi video {
